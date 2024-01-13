@@ -1,0 +1,7 @@
+# khởi tạo
+scrapy startproject crawldata
+
+
+#run
+scrapy crawl coursera
+
